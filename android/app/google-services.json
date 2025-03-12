@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879008885552",
+    "project_id": "cinema-chat-82188",
+    "storage_bucket": "cinema-chat-82188.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879008885552:android:ae4dd2e06036a3c56536f5",
+        "android_client_info": {
+          "package_name": "com.example.cinema_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiv5w0dqWvsPqhZPQV8fLdbhoa8ZRAYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
